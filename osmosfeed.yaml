@@ -1,4 +1,4 @@
-# cacheUrl: https://newsfeed.bryanlue.me/cache.json
+cacheUrl: https://newsfeed.bryanlue.me/cache.json
 sources:
   - href: https://bryanlue.me/rss/
   - href: https://www.reutersagency.com/feed/

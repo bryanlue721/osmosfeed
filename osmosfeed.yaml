@@ -10,11 +10,25 @@ sources:
   - href: https://www.economist.com/leaders/rss.xml
   - href: https://www.economist.com/briefing/rss.xml
   - href: https://www.economist.com/special-report/rss.xml
+  - href: https://www.economist.com/britain/rss.xml
+  - href: https://www.economist.com/europe/rss.xml
+  - href: https://www.economist.com/united-states/rss.xml
+  - href: https://www.economist.com/the-americas/rss.xml
+  - href: https://www.economist.com/middle-east-and-africa/rss.xml
+  - href: https://www.economist.com/asia/rss.xml
+  - href: https://www.economist.com/china/rss.xml
+  - href: https://www.economist.com/international/rss.xml
+  - href: https://www.economist.com/business/rss.xml
+  - href: https://www.economist.com/finance-and-economics/rss.xml
+  - href: https://www.economist.com/science-and-technology/rss.xml
+  - href: https://www.economist.com/books-and-arts/rss.xml
+  - href: https://www.economist.com/graphic-detail/rss.xml
   - href: https://rss.app/feeds/3ZCLoTmXHuC7X3jn.xml
   - href: http://feeds.foxnews.com/foxnews/latest
   - href: https://feeds.washingtonpost.com/rss/politics
   - href: https://feeds.washingtonpost.com/rss/national
   - href: https://feeds.washingtonpost.com/rss/opinions
+  - href: https://feeds.washingtonpost.com/rss/world
   - href: https://nypost.com/feed/
   - href: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
   - href: https://abcnews.go.com/abcnews/topstories
